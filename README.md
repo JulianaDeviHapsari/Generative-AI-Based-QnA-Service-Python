@@ -1,6 +1,6 @@
 # Generative AI Based QnA Service Python
 
-Generative AI Based QnA Service using Python, Django, Javascript, HMTL, CSS, API, and Postman in Fast Campus Course
+Generative AI Based QnA Service using Python, Django, Javascript, HMTL, CSS, Gemini-API, and Postman in Fast Campus Course
 
 ## Demo
 
@@ -12,7 +12,7 @@ Generative AI Based QnA Service using Python, Django, Javascript, HMTL, CSS, API
 
 ## Tech Stack
 
-**Client:** Python, Django, Javascript, HMTL, CSS, API, and Postman
+**Client:** Python, Django, Javascript, HMTL, CSS, Gemini-API, and Postman
 ## Authors
 
 - [@Julianadevhapsari](https://github.com/JulianaDeviHapsari/)
